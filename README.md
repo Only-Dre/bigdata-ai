@@ -11,3 +11,6 @@ Repositório utilizado como pasta, contendo códigos feitos pelo Google Colab, e
   - Ensemble - Random Forest Regressor
   - Tree - Decision Tree Regressor
   - Metrics - Mean (Squarred Error, Absolute Error) - R2 Score
+__
+
+Anotações, alterações e adições serão feitos futuramente.
